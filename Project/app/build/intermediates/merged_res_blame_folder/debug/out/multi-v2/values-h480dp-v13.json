@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.setdone.app-mergeDebugResources-68:/values-h480dp-v13/values-h480dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Watcharaphong\\.gradle\\caches\\transforms-3\\3cb3e888f3a0eee525e91f312a60bc6b\\transformed\\material-1.13.0\\res\\values-h480dp-v13\\values-h480dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,128,198,270",
+                        "endColumns": "72,69,71,69",
+                        "endOffsets": "123,193,265,335"
+                    }
+                }
+            ]
+        }
+    ]
+}
